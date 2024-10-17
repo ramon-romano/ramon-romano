@@ -1,6 +1,10 @@
-<div align="center">
+##
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&color=FFF73A&width=900&lines=Oi%2C+eu+sou+o+Ramon;Desenvolvedor+Front-End)](https://git.io/typing-svg)
+<div align="right">
+
+<br clear="both">
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=235&pause=1000&color=FFF73A&width=620&lines=Oi%2C+eu+sou+o+Ramon+Romano;Desenvolvedor+Front-End" alt="Typing SVG" />
 
 </div>
 
