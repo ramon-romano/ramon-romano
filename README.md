@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF73A&height=200&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&%20like%20me!&descAlignY=51&descAlign=62"/>
+
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=FFF73A&center=true&width=435&height=70&lines=Oi%2C+eu+sou+o+Ramon+Romano;Desenvolvedor+Front-End)](https://git.io/typing-svg)
