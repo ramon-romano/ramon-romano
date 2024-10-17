@@ -55,3 +55,5 @@
 
 
 ###
+
+![snake gif](https://github.com/ramon-romano/ramon-romano/blob/output/github-contribution-grid-snake.svg)
