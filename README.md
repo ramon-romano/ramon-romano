@@ -57,6 +57,8 @@
   <img src="https://profile-counter.glitch.me/ramon-romano/count.svg?"  /> 
 </div>
 
+<img src="https://raw.githubusercontent.com/ramon-romano/ramon-romano/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
