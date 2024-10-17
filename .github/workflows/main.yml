@@ -24,13 +24,24 @@ jobs:
       - name: Gerar snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ramon-romano # Seu nome de usuário do GitHub
+          github_user_name: ramon-romano # Nome de usuário correto
 
-      - name: Criar diretório para o SVG
-        run: mkdir -p dist
+      # Verificar onde está o arquivo snake.svg
+      - name: Verificar onde o arquivo snake.svg foi gerado
+        run: |
+          echo "Arquivos gerados no diretório atual:"
+          ls -alh
+          echo "Procurando snake.svg no projeto:"
+          find . -name "snake.svg"
 
-      - name: Mover snake.svg para o diretório dist
-        run: mv snake.svg dist/snake.svg
+      # Se o arquivo for encontrado, mova para o diretório dist
+      - name: Criar diretório dist e mover snake.svg
+        run: |
+          mkdir -p dist
+          mv $(find . -name "snake.svg") dist/snake.svg || echo "snake.svg não foi encontrado."
+
+      - name: Listar arquivos no diretório dist
+        run: ls -alh dist
 
       - name: Push snake.svg para o branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
