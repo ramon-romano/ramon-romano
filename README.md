@@ -36,4 +36,10 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31lw5s2qsfq4gm2i3bz4mjfn5fhy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+### 
+
+<div align="left"> 
+  <img height="200" src="https://i.gifer.com/XwI4.gif"  /> 
+</div> 
+
 ###
