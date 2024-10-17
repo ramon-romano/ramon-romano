@@ -1,6 +1,6 @@
 <div align="right">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=235&size=30&pause=1000&color=FFF73A&width=625&lines=Oi%2C+eu+sou+o+Ramon+Romano;Desenvolvedor+Front-End" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&weight=235&size=30&pause=1000&color=FFF73A&width=400&lines=Oi%2C+eu+sou+o+Ramon+Romano;Desenvolvedor+Front-End" alt="Typing SVG" />
 
 </div>
 
