@@ -51,9 +51,11 @@
 
 <div align="center"> 
   <img src="https://profile-counter.glitch.me/ramon-romano/count.svg?"  /> 
+
+  ![Snake animation](https://github.com/ramon-romano/ramon-romano/blob/output/github-contribution-grid-snake.svg)
+
 </div>
 
 
 ###
 
-![snake gif](https://github.com/ramon-romano/ramon-romano/blob/output/github-contribution-grid-snake.svg)
