@@ -1,4 +1,4 @@
-<h2 align="center">Oi 👋! Eu sou o Ramon.</h2>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&pause=1000&color=FFF73A&width=435&lines=Oi%2C+eu+sou+o+Ramon;Desenvolvedor+Front-End)](https://git.io/typing-svg)
 
 ###
 
