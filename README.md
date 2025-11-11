@@ -48,12 +48,6 @@
 
 ###
 
-<div align="center"> 
-  <img src="https://profile-counter.glitch.me/ramon-romano/count.svg?"  /> 
-</div>
-
-### 
-
 <div align="center">
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramon-romano&bg_color=000000&color=fff705&line=fff700&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -67,3 +61,4 @@
 </div> 
 
 ###
+
