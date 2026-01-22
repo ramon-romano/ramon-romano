@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=FFF73A&center=true&width=435&height=70&lines=Hi%2C+I+am+Ramon+Romano;Front-End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=FFF73A&center=true&width=435&height=70&lines=Hi%2C+I+am+Ramon+Romano;Full-Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -64,6 +64,7 @@
 </div> 
 
 ###
+
 
 
 
