@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFF73A&height=150&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&%20like%20me!&descAlignY=51&descAlign=62"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=778899&height=150&section=header&fontSize=90&animation=fadeIn&fontAlignY=38&%20like%20me!&descAlignY=51&descAlign=62"/>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=FFF73A&center=true&width=435&height=70&lines=Hi%2C+I+am+Ramon+Romano;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bebas+Neue&size=40&pause=1000&color=778899&center=true&width=435&height=70&lines=Hi%2C+I+am+Ramon+Romano;Full-Stack+Developer)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,7 +53,7 @@
 
 <div align="center">
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramon-romano&bg_color=000000&color=fff705&line=fff700&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramon-romano&bg_color=000000&color=778899&line=fff700&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
